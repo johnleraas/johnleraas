@@ -1,8 +1,4 @@
-# ReadMeTestText
-
-# John Leraas
-
-## Project Portfolio
+## Cool Projects I've worked on:
 
 ### [Haiti Disaster Relief](https://github.com/johnleraas/Haiti-Disaster-Relief)
 This project was done as part of a class on machine learning and used actual satellite data on Haiti following the earthquake in 2010. Coded in R, utilizing the following classification models: logistic regression, linear discriminant analysis, quadratic discriminant analysis, K-nearest neighbors, penalized logistic regression, random forest, and support vector machines.
