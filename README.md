@@ -1,7 +1,5 @@
 # John Leraas
 
-Passionate about learning.
-
 ## Project Portfolio
 
 ### [Haiti Disaster Relief](https://github.com/johnleraas/Haiti-Disaster-Relief)
